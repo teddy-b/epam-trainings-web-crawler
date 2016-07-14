@@ -1,0 +1,12 @@
+{
+  "name": "web-crawler",
+  "version": "0.0.1",
+  "description": "Simple JS crawler",
+  "main": "crawler.js",
+  "author": "TB",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}
